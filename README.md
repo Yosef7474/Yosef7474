@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey! I’m Yosef Dejene, a Computer Science grad and Full Stack Developer
 
-<!--
-**Yosef7474/Yosef7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech I Use:
 
-Here are some ideas to get you started:
+Frontend: React, JavaScript, HTML/CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: Node.js, Express.
+
+Databases: PostgreSQL, MongoDB.
+
+Tools: Git, AWS (still learning the cloud magic).
+
+🚀 What I Do:
+
+Build things from scratch and try not to break them in production.
+
+Collaborate with teams to make cool stuff happen.
+
+🌱 I’m currently learning MERN Stack
+
