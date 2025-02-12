@@ -1,4 +1,6 @@
-👋 Hey! I’m Yosef Dejene, a Computer Science grad and Full Stack Developer
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; 👋 Hey! I’m Yosef Dejene, a Computer Science grad and Full Stack Developer &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+
 <br>
 <br>
 
@@ -19,6 +21,9 @@ Collaborate with teams to make cool stuff happen.
 
 
 
+![src](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+<br>
+<br>
 🌱 I’m currently learning MERN Stack
 
 
