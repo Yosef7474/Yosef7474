@@ -35,7 +35,7 @@ Collaborate with teams to make cool stuff happen.
 <br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yosef747) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yosefdejene747@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/yosef747](https://linkedin.com/in/yosefdejene)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yosefdejene747@gmail.com) 
 
 
 
